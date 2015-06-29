@@ -1,2 +1,4 @@
 
 new 7
+add more become AM
+add from local (after server added, but did not pull from server, expect conflict)
