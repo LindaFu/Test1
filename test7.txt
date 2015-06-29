@@ -1,4 +1,8 @@
 
 new 7
+<<<<<<< HEAD
 add more become AM
 add from local (after server added, but did not pull from server, expect conflict)
+=======
+add from server
+>>>>>>> 845b57fe4d24a515be966bf5afe280ccba936718
