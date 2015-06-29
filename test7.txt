@@ -4,4 +4,8 @@ add more become AM
 add from server
 add from local (after server added, but did not pull from server, expect conflict)
 
-#add again locally 1
+#add again locally 1 - manually merged locally
+=======
+add again from server2 - manually merged locally
+
+
